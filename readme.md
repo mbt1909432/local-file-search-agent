@@ -2,6 +2,7 @@
 
 ## 引言：最近面试了一个做ai agent相关领域的初创公司，要求我做一个local file search的ai agent，整篇文章用于记录我的设计思路，源码位于
 https://github.com/mbt1909432/Local-File-Search-Agent
+时间有限具体配置文件相关，例如: .gitignore, yaml等 就懒得写了，仅仅展示整体设计思路
 
 ## 项目目标：
 在这个项目中我旨在允许让用户输入自然语言询问（query）来得到本地文件的各种信息,例如:特定文件夹下pdf的数量，隐藏文件的名称等等
